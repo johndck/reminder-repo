@@ -1,2 +1,5 @@
-# reminder-repo
-This repo is where I am storing my revision notes for key javascript concepts that I believe are important to remember
+# My Javascript reminder repo
+
+## Key pieces of javascript I need to remember
+
+# key concepts
